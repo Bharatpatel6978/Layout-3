@@ -38,3 +38,49 @@
 {
     height: 16rem;
 }
+#ul1
+{
+    color: white;
+    font-family: Eastman Grotesque Extrabold;
+    float: right;
+    padding-right: 2rem;
+}
+.li1
+{
+    list-style-type: square;
+    font-size: 33px;
+    /* margin-left: 20rem; */
+    direction: rtl;
+    text-align: right;
+    
+}
+
+#head-col2
+{
+    height: 32rem; 
+}
+#head-col3
+{
+    height: 15rem;
+    width: 100vw;
+    background-color: #ffff0091;
+    color: white;
+    padding-top: 2rem;
+    padding-left: 3rem;
+}
+#head-col4
+{
+    background-color: #444549;
+    height: 10rem;
+}
+#head-f-p
+{
+    font-size: 88px;
+    line-height: 97%;
+    font-weight: 400;
+}
+#head-f-st
+{
+    font-size: 98px;
+    font-weight: 700;
+}
