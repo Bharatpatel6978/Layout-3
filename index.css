@@ -115,7 +115,7 @@
 #fir-p1
 {
     font-size: 87px;
-    color: #e5212c;
+    color: rgba(255, 0, 0, 0.726);
     font-weight: 700;
 }
 #fir-p2
@@ -127,7 +127,7 @@
 }
 #fir-p3
 {
-    font-size: 32px;
+    font-size: 40px;
     margin-top: -3%;
     color: #483939;
 }
@@ -137,15 +137,47 @@
 }
 #head-col6
 {
-    background-color: rgb(0, 217, 255);
+     background-color: #39BBDB;
 }
 #main-col1
 {
-    background-color: black;
-    height: 37rem;
+    background-color: #ecf3f0;
+    height: 44rem;
     width: 100vw;
+    padding-left: 4%;
+    padding-top: 2rem;
+    border-bottom: 7px solid rgba(255, 0, 0, 0.726);
 }
 #logo
 {
-    height: 7rem;
+    height: 6rem;
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+#main-p1
+{
+    color: #c35664;
+    font-weight: 600;
+    font-size: 21px;
+}
+#main-p2
+{
+    font-size: 24px;
+}
+#main-p3
+{
+    font-size: 35px;
+    margin-top: -11px;
+    color: #6d7271;
+}
+#main-p2-st
+{
+    font-size: 51px;
+    color: #6d7271;
+    font-weight: 800;
+}
+#sup
+{
+    top: -1.5em;
+    color: #5a5c5c;
 }
